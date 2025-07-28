@@ -58,7 +58,7 @@ st.markdown(
     f"""
     <style>
     .stApp {{
-        background: url("https://www.learningroutes.in/_next/image?url=https%3A%2F%2Faskusedu.com%2Fblogdashboard%2Fwp-content%2Fuploads%2F2024%2F10%2FIndias-MBA-Salary-Breakdown-for-2024.jpg&w=1920&q=75")
+        background: url("https://imageio.forbes.com/specials-images/imageserve/679cc6d58ccd4a393431ccc2/Growth-financial-business-arrow-money-coin-on-increase-earnings-3d-background-with/960x0.jpg?format=jpg&width=960")
         background-size: cover
     }}
     </style>
