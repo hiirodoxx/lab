@@ -10,8 +10,8 @@ model = joblib.load('salary_model.pk1')
 st.title("Salary Prediction")
 
 ## Define the input options
-year_of_enrollment= ['2021', '2022', '2023']
-graduation_year= ['2023', '2024', '2025']
+year_of_enrollment= ['2019', '2020', '2021', '2022', '2023']
+graduation_year= ['2020', '2021', '2022', '2023', '2024', '2025']
 test_score= [round(x * 0.1, 1) for x in range(1, 101)]
 
 ## User inputs
